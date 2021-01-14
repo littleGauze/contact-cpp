@@ -13,4 +13,4 @@ sample contact code by c++, save contact info with file.
 `./main`
 
 ### Demo
-<img src="./doc/main.png">
+<img src="https://littlegauze.github.io/contact-cpp/doc/main.png" width="400" />
